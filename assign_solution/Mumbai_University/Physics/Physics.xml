@@ -1,0 +1,77 @@
+<stream>
+      <course>Physics</course>
+		<student>
+		  <name>Ashish Sharma</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>PH001</roll_number>
+		</student>
+		<student>
+		  <name>Ayush Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>PH002</roll_number>
+		</student>
+		<student>
+		  <name>Chaitanya Kumar</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>PH003</roll_number>
+		</student>
+		<student>
+		  <name>Asha Gupta</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>PH004</roll_number>
+		</student>
+		<student>
+		  <name>Chaitanya Kumar</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>PH005</roll_number>
+		</student>
+		<student>
+		  <name>Danish Khan</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>PH006</roll_number>
+		</student>
+		<student>
+		  <name>Dhruv Gupta</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>PH007</roll_number>
+		</student>
+		<student>
+		  <name>Deepika Mehta</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>PH008</roll_number>
+		</student>
+		<student>
+		  <name>Gaurav Jain</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>PH009</roll_number>
+		</student>
+		<student>
+		  <name>Diya Singh</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>PH0010</roll_number>
+		</student>
+		<student>
+		  <name>Harsh Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>PH0011</roll_number>
+		</student>
+		<student>
+		  <name>Isha Verma</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>PH012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+    
