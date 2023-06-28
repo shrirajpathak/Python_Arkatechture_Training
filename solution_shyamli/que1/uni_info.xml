@@ -1,0 +1,536 @@
+<university>
+  <uname>Mumbai University</uname>
+  <location>Mumbai, India</location>
+    <stream>
+      <course>Computer Science</course>
+        <student>
+          <name>Janlet Doe</name>
+          <age>20</age>
+          <gender>Male</gender>
+          <roll_number>CS001</roll_number>
+        </student>
+		<student>
+          <name>John Doe</name>
+          <age>20</age>
+          <gender>Male</gender>
+          <roll_number>CS002</roll_number>
+        </student>
+		<student>
+          <name>Jason Doe</name>
+          <age>22</age>
+          <gender>Male</gender>
+          <roll_number>CS003</roll_number>
+        </student>
+		<student>
+          <name>Jenny Doe</name>
+          <age>19</age>
+          <gender>Female</gender>
+          <roll_number>CS004</roll_number>
+        </student>
+		<student>
+          <name>Jan Doe</name>
+          <age>21</age>
+          <gender>Female</gender>
+          <roll_number>CS005</roll_number>
+        </student>
+		<student>
+          <name>John Smells</name>
+          <age>23</age>
+          <gender>Male</gender>
+          <roll_number>CS006</roll_number>
+        </student>
+		<student>
+          <name>Jack Doe</name>
+          <age>23</age>
+          <gender>Male</gender>
+          <roll_number>CS007</roll_number>
+        </student>
+		<student>
+          <name>Jenifer Doe</name>
+          <age>22</age>
+          <gender>Female</gender>
+          <roll_number>CS008</roll_number>
+        </student>
+		<student>
+          <name>Justin Doe</name>
+          <age>22</age>
+          <gender>Male</gender>
+          <roll_number>CS009</roll_number>
+        </student>
+		<student>
+          <name>Jolly Doe</name>
+          <age>20</age>
+          <gender>Female</gender>
+          <roll_number>CS0010</roll_number>
+        </student>
+		<student>
+          <name>Jon Doe</name>
+          <age>20</age>
+          <gender>Male</gender>
+          <roll_number>CS0011</roll_number>
+        </student>
+        <student>
+          <name>Jane Smith</name>
+          <age>21</age>
+          <gender>Female</gender>
+          <roll_number>CS012</roll_number>
+        </student>
+      <total_students>12</total_students>
+    </stream>
+    <stream>
+      <course>Electrical Engineering</course>
+		<student>
+		  <name>Aarav Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>EE001</roll_number>
+		</student>
+		<student>
+		  <name>Advait Desai</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>EE002</roll_number>
+		</student>
+		<student>
+		  <name>Akash Singh</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>EE003</roll_number>
+		</student>
+		<student>
+		  <name>Aditi Sharma</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>EE004</roll_number>
+		</student>
+		<student>
+		  <name>Amrita Das</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>EE005</roll_number>
+		</student>
+		<student>
+		  <name>Aman Verma</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>EE006</roll_number>
+		</student>
+		<student>
+		  <name>Aniket Gupta</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>EE007</roll_number>
+		</student>
+		<student>
+		  <name>Anaya Shah</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>EE008</roll_number>
+		</student>
+		<student>
+		  <name>Ankit Choudhary</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>EE009</roll_number>
+		</student>
+		<student>
+		  <name>Anisha Joshi</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>EE0010</roll_number>
+		</student>
+		<student>
+		  <name>Arjun Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>EE0011</roll_number>
+		</student>
+		<student>
+		  <name>Asha Gupta</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>EE012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+    <stream>
+      <course>Physics</course>
+		<student>
+		  <name>Ashish Sharma</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>PH001</roll_number>
+		</student>
+		<student>
+		  <name>Ayush Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>PH002</roll_number>
+		</student>
+		<student>
+		  <name>Chaitanya Kumar</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>PH003</roll_number>
+		</student>
+		<student>
+		  <name>Asha Gupta</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>PH004</roll_number>
+		</student>
+		<student>
+		  <name>Chaitanya Kumar</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>PH005</roll_number>
+		</student>
+		<student>
+		  <name>Danish Khan</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>PH006</roll_number>
+		</student>
+		<student>
+		  <name>Dhruv Gupta</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>PH007</roll_number>
+		</student>
+		<student>
+		  <name>Deepika Mehta</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>PH008</roll_number>
+		</student>
+		<student>
+		  <name>Gaurav Jain</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>PH009</roll_number>
+		</student>
+		<student>
+		  <name>Diya Singh</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>PH0010</roll_number>
+		</student>
+		<student>
+		  <name>Harsh Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>PH0011</roll_number>
+		</student>
+		<student>
+		  <name>Isha Verma</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>PH012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+    <stream>
+      <course>Chemistry</course>
+		<student>
+		  <name>Jai Mehta</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>CH001</roll_number>
+		</student>
+		<student>
+		  <name>Aarav Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>CH002</roll_number>
+		</student>
+		<student>
+		  <name>Advait Desai</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>CH003</roll_number>
+		</student>
+		<student>
+		  <name>Jenny Doe</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>CH004</roll_number>
+		</student>
+		<student>
+		  <name>Jan Doe</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>CH005</roll_number>
+		</student>
+		<student>
+		  <name>Ashish Sharma</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>CH006</roll_number>
+		</student>
+		<student>
+		  <name>Jack Doe</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>CH007</roll_number>
+		</student>
+		<student>
+		  <name>Jenifer Doe</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>CH008</roll_number>
+		</student>
+		<student>
+		  <name>Chaitanya Kumar</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>CH009</roll_number>
+		</student>
+		<student>
+		  <name>Asha Gupta</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>CH0010</roll_number>
+		</student>
+		<student>
+		  <name>Jon Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>CH0011</roll_number>
+		</student>
+		<student>
+		  <name>Jane Smith</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>CH012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+	<stream>
+      <course>Biology</course>
+		<student>
+		  <name>Rohan Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>B001</roll_number>
+		</student>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>B002</roll_number>
+		</student>
+		<student>
+		  <name>Samir Singh</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>B003</roll_number>
+		</student>
+		<student>
+		  <name>Simran Reddy</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>B004</roll_number>
+		</student>
+		<student>
+		  <name>Shreya Sharma</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>B005</roll_number>
+		</student>
+		<student>
+		  <name>Siddharth Jain</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>B006</roll_number>
+		</student>
+		<student>
+		  <name>Sourav Mehta</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>B007</roll_number>
+		</student>
+		<student>
+		  <name>Jenifer Doe</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>B008</roll_number>
+		</student>
+		<student>
+		  <name>Justin Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>B009</roll_number>
+		</student>
+		<student>
+		  <name>Tanvi Gupta</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>B0010</roll_number>
+		</student>
+		<student>
+		  <name>Jon Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>B0011</roll_number>
+		</student>
+		<student>
+		  <name>Udit Patel</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>B012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>    
+	<stream>
+      <course>Social Science</course>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>SS001</roll_number>
+		</student>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>SS002</roll_number>
+		</student>
+		<student>
+		  <name>Jason Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>SS003</roll_number>
+		</student>
+		<student>
+		  <name>Jenny Doe</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>SS004</roll_number>
+		</student>
+		<student>
+		  <name>Jan Doe</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>SS005</roll_number>
+		</student>
+		<student>
+		  <name>John Smells</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>SS006</roll_number>
+		</student>
+		<student>
+		  <name>Jack Doe</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>SS007</roll_number>
+		</student>
+		<student>
+		  <name>Jenifer Doe</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>SS008</roll_number>
+		</student>
+		<student>
+		  <name>Justin Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>SS009</roll_number>
+		</student>
+		<student>
+		  <name>Jolly Doe</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>SS0010</roll_number>
+		</student>
+		<student>
+		  <name>Jon Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>SS0011</roll_number>
+		</student>
+		<student>
+		  <name>Jane Smith</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>SS012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+	<stream>
+      <course>Mathematics</course>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>M001</roll_number>
+		</student>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>M002</roll_number>
+		</student>
+		<student>
+		  <name>Jason Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>M003</roll_number>
+		</student>
+		<student>
+		  <name>Jenny Doe</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>M004</roll_number>
+		</student>
+		<student>
+		  <name>Jan Doe</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>M005</roll_number>
+		</student>
+		<student>
+		  <name>John Smells</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>M006</roll_number>
+		</student>
+		<student>
+		  <name>Jack Doe</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>M007</roll_number>
+		</student>
+		<student>
+		  <name>Jenifer Doe</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>M008</roll_number>
+		</student>
+		<student>
+		  <name>Justin Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>M009</roll_number>
+		</student>
+		<student>
+		  <name>Jolly Doe</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>M0010</roll_number>
+		</student>
+		<student>
+		  <name>Jon Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>M0011</roll_number>
+		</student>
+		<student>
+		  <name>Jane Smith</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>M012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+</university>
