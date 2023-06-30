@@ -1,0 +1,85 @@
+,Stream,Name,Age,Gender,Roll Number
+0,Computer Science,Janlet Doe,20,Male,CS001
+1,Computer Science,John Doe,20,Male,CS002
+2,Computer Science,Jason Doe,22,Male,CS003
+3,Computer Science,Jenny Doe,19,Female,CS004
+4,Computer Science,Jan Doe,21,Female,CS005
+5,Computer Science,John Smells,23,Male,CS006
+6,Computer Science,Jack Doe,23,Male,CS007
+7,Computer Science,Jenifer Doe,22,Female,CS008
+8,Computer Science,Justin Doe,22,Male,CS009
+9,Computer Science,Jolly Doe,20,Female,CS0010
+10,Computer Science,Jon Doe,20,Male,CS0011
+11,Computer Science,Jane Smith,21,Female,CS012
+12,Electrical Engineering,Aarav Patel,20,Male,EE001
+13,Electrical Engineering,Advait Desai,20,Male,EE002
+14,Electrical Engineering,Akash Singh,22,Male,EE003
+15,Electrical Engineering,Aditi Sharma,19,Female,EE004
+16,Electrical Engineering,Amrita Das,21,Female,EE005
+17,Electrical Engineering,Aman Verma,23,Male,EE006
+18,Electrical Engineering,Aniket Gupta,23,Male,EE007
+19,Electrical Engineering,Anaya Shah,22,Female,EE008
+20,Electrical Engineering,Ankit Choudhary,22,Male,EE009
+21,Electrical Engineering,Anisha Joshi,20,Female,EE0010
+22,Electrical Engineering,Arjun Patel,20,Male,EE0011
+23,Electrical Engineering,Asha Gupta,21,Female,EE012
+24,Physics,Ashish Sharma,20,Male,PH001
+25,Physics,Ayush Patel,20,Male,PH002
+26,Physics,Chaitanya Kumar,22,Male,PH003
+27,Physics,Asha Gupta,19,Female,PH004
+28,Physics,Chaitanya Kumar,21,Female,PH005
+29,Physics,Danish Khan,23,Male,PH006
+30,Physics,Dhruv Gupta,23,Male,PH007
+31,Physics,Deepika Mehta,22,Female,PH008
+32,Physics,Gaurav Jain,22,Male,PH009
+33,Physics,Diya Singh,20,Female,PH0010
+34,Physics,Harsh Patel,20,Male,PH0011
+35,Physics,Isha Verma,21,Female,PH012
+36,Chemistry,Jai Mehta,20,Male,CH001
+37,Chemistry,Aarav Patel,20,Male,CH002
+38,Chemistry,Advait Desai,22,Male,CH003
+39,Chemistry,Jenny Doe,19,Female,CH004
+40,Chemistry,Jan Doe,21,Female,CH005
+41,Chemistry,Ashish Sharma,23,Male,CH006
+42,Chemistry,Jack Doe,23,Male,CH007
+43,Chemistry,Jenifer Doe,22,Female,CH008
+44,Chemistry,Chaitanya Kumar,22,Male,CH009
+45,Chemistry,Asha Gupta,20,Female,CH0010
+46,Chemistry,Jon Doe,20,Male,CH0011
+47,Chemistry,Jane Smith,21,Female,CH012
+48,Biology,Rohan Patel,20,Male,B001
+49,Biology,John Doe,20,Male,B002
+50,Biology,Samir Singh,22,Male,B003
+51,Biology,Simran Reddy,19,Female,B004
+52,Biology,Shreya Sharma,21,Female,B005
+53,Biology,Siddharth Jain,23,Male,B006
+54,Biology,Sourav Mehta,23,Male,B007
+55,Biology,Jenifer Doe,22,Female,B008
+56,Biology,Justin Doe,22,Male,B009
+57,Biology,Tanvi Gupta,20,Female,B0010
+58,Biology,Jon Doe,20,Male,B0011
+59,Biology,Udit Patel,21,Female,B012
+60,Social Science,John Doe,20,Male,SS001
+61,Social Science,John Doe,20,Male,SS002
+62,Social Science,Jason Doe,22,Male,SS003
+63,Social Science,Jenny Doe,19,Female,SS004
+64,Social Science,Jan Doe,21,Female,SS005
+65,Social Science,John Smells,23,Male,SS006
+66,Social Science,Jack Doe,23,Male,SS007
+67,Social Science,Jenifer Doe,22,Female,SS008
+68,Social Science,Justin Doe,22,Male,SS009
+69,Social Science,Jolly Doe,20,Female,SS0010
+70,Social Science,Jon Doe,20,Male,SS0011
+71,Social Science,Jane Smith,21,Female,SS012
+72,Mathematics,John Doe,20,Male,M001
+73,Mathematics,John Doe,20,Male,M002
+74,Mathematics,Jason Doe,22,Male,M003
+75,Mathematics,Jenny Doe,19,Female,M004
+76,Mathematics,Jan Doe,21,Female,M005
+77,Mathematics,John Smells,23,Male,M006
+78,Mathematics,Jack Doe,23,Male,M007
+79,Mathematics,Jenifer Doe,22,Female,M008
+80,Mathematics,Justin Doe,22,Male,M009
+81,Mathematics,Jolly Doe,20,Female,M0010
+82,Mathematics,Jon Doe,20,Male,M0011
+83,Mathematics,Jane Smith,21,Female,M012
