@@ -1,0 +1,77 @@
+<stream>
+      <course>Chemistry</course>
+		<student>
+		  <name>Jai Mehta</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>CH001</roll_number>
+		</student>
+		<student>
+		  <name>Aarav Patel</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>CH002</roll_number>
+		</student>
+		<student>
+		  <name>Advait Desai</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>CH003</roll_number>
+		</student>
+		<student>
+		  <name>Jenny Doe</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>CH004</roll_number>
+		</student>
+		<student>
+		  <name>Jan Doe</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>CH005</roll_number>
+		</student>
+		<student>
+		  <name>Ashish Sharma</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>CH006</roll_number>
+		</student>
+		<student>
+		  <name>Jack Doe</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>CH007</roll_number>
+		</student>
+		<student>
+		  <name>Jenifer Doe</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>CH008</roll_number>
+		</student>
+		<student>
+		  <name>Chaitanya Kumar</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>CH009</roll_number>
+		</student>
+		<student>
+		  <name>Asha Gupta</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>CH0010</roll_number>
+		</student>
+		<student>
+		  <name>Jon Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>CH0011</roll_number>
+		</student>
+		<student>
+		  <name>Jane Smith</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>CH012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+	

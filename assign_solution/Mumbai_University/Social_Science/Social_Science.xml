@@ -1,0 +1,77 @@
+<stream>
+      <course>Social Science</course>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>SS001</roll_number>
+		</student>
+		<student>
+		  <name>John Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>SS002</roll_number>
+		</student>
+		<student>
+		  <name>Jason Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>SS003</roll_number>
+		</student>
+		<student>
+		  <name>Jenny Doe</name>
+		  <age>19</age>
+		  <gender>Female</gender>
+		  <roll_number>SS004</roll_number>
+		</student>
+		<student>
+		  <name>Jan Doe</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>SS005</roll_number>
+		</student>
+		<student>
+		  <name>John Smells</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>SS006</roll_number>
+		</student>
+		<student>
+		  <name>Jack Doe</name>
+		  <age>23</age>
+		  <gender>Male</gender>
+		  <roll_number>SS007</roll_number>
+		</student>
+		<student>
+		  <name>Jenifer Doe</name>
+		  <age>22</age>
+		  <gender>Female</gender>
+		  <roll_number>SS008</roll_number>
+		</student>
+		<student>
+		  <name>Justin Doe</name>
+		  <age>22</age>
+		  <gender>Male</gender>
+		  <roll_number>SS009</roll_number>
+		</student>
+		<student>
+		  <name>Jolly Doe</name>
+		  <age>20</age>
+		  <gender>Female</gender>
+		  <roll_number>SS0010</roll_number>
+		</student>
+		<student>
+		  <name>Jon Doe</name>
+		  <age>20</age>
+		  <gender>Male</gender>
+		  <roll_number>SS0011</roll_number>
+		</student>
+		<student>
+		  <name>Jane Smith</name>
+		  <age>21</age>
+		  <gender>Female</gender>
+		  <roll_number>SS012</roll_number>
+		</student>
+      <total_students>12</total_students>
+    </stream>
+	
